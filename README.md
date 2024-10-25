@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe with MiniMax algorithm
 
 A modern, responsive Tic-Tac-Toe game built with **JavaScript**, **HTML**, and **CSS**, enhanced with **Bootstrap** for a sleek design. The game also includes a **dark/light mode toggle** for a customizable user experience.
 
