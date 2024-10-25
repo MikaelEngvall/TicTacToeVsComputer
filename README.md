@@ -50,7 +50,7 @@ No additional dependencies are required, as this project is fully static (HTML, 
 
 ## How to Play
 1. Click on any of the empty cells to mark it with your symbol (`X` or `O`).
-2. Alternate between players until someone wins or the board is full.
+2. Alternates between player and the computer until someone wins or the board is full.
 3. The current player's turn is displayed at the top of the board.
 4. If a player wins, the game will announce the winner and disable further moves.
 5. If the board is full without a winner, the game will declare a draw.
