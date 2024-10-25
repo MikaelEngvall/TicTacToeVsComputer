@@ -13,7 +13,7 @@ A modern, responsive Tic-Tac-Toe game built with **JavaScript**, **HTML**, and *
 - [License](#license)
 
 ## Demo
-Check out a live demo of the game here: [Tic-Tac-Toe Live Demo](https://mikaelengvall.github.io/TicTacToe/)
+Check out a live demo of the game here: [Tic-Tac-Toe Live Demo](https://mikaelengvall.github.io/TicTacToeVsComputer/)
 
 ## Features
 - **Responsive design**: Built with Bootstrap, the game scales well across devices.
